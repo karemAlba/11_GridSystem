@@ -1,0 +1,43 @@
+header{
+	background-color: black;
+	color: white;
+
+	
+}
+
+.logo{
+	height: 80px;
+	width: 80px;
+	margin-top: 20px;
+}
+
+nav ul{
+	list-style-type: none;
+	padding-top: 50px;
+	float: right;
+	font-size: 14px;
+}
+
+nav li{
+	position: relative;
+	float: left;
+}
+
+nav li:hover a{
+	background: #585858;
+}
+
+nav a{
+	text-decoration: none;
+	padding: 10px 15px;
+	color: #eee;
+	text-shadow: 2px 2px 4px #000;
+}
+
+
+nav a:hover {
+	color: white;
+}
+
+
+
